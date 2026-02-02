@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "apicmse",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "28004c83-7908-4262-b756-8f485b64b1a2",
+			"database_name": "bancodedadoscmse"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
